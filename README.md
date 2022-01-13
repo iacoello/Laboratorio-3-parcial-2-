@@ -28,10 +28,15 @@
 
 **1.4 EXPLICACIÓN DE PROCEDIMIENTO**
 
+**Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 6.1.
+Anote los resultados medidos.**
+
+![1 1](https://user-images.githubusercontent.com/93835587/149417327-b8e0af33-0fd6-4217-9fbe-30c3d104c10d.jpg)
 
 ![1](https://user-images.githubusercontent.com/93835587/149417293-c0ba7dcd-a41c-434b-aedb-004dd8eb895e.jpg)
 
-![1 1](https://user-images.githubusercontent.com/93835587/149417327-b8e0af33-0fd6-4217-9fbe-30c3d104c10d.jpg)
+**Calcule las potencia consumida por RL, para cada valor dado y anote los
+resultados en la tabla 6.1.**
 
 ![2](https://user-images.githubusercontent.com/93835587/149417372-e71ad30c-1f14-4092-94e7-2210c8fe0e4f.jpg)
 
