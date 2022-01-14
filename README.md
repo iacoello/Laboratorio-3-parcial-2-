@@ -93,7 +93,7 @@ resultados en la tabla 6.1.**
 
 ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.
 
-Este teorema se cumple solo si la resistencia de carga es igual a la resistencia de Thevenin (RL=RTH), debido a esto no se cumple el teorema de Máxima transferencia de Potencia porque entre las 10 resistencias de carga expuestas en la tabla 6.1 no existe una resistencia de 1200 Ω que es el valor de la resistencia de Thevenin. Sin embargo, la resistencia de carga que generó la maxima potencia fue la resistencia de 1000 Ω    
+Este teorema se cumple solo si la resistencia de carga es igual a la resistencia de Thevenin (RL=RTH), debido a esto no se cumple el teorema de Máxima transferencia de Potencia porque entre las 10 resistencias de carga expuestas en la tabla 6.1 no existe una resistencia de 1200 Ω que es el valor de la resistencia de Thevenin. Sin embargo, la resistencia de carga que generó la maxima potencia fue la resistencia de 1000 Ω generando una potencia de 0.04648 Watts.    
 
 ¿Cuál fue la potencia máxima en RL? 0.04648 Watts
 
