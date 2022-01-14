@@ -47,6 +47,11 @@ La cantidad de potencia que una fuente de voltaje puede suministrar está limita
 
 **1.6. EXPLICACIÓN DE PROCEDIMIENTO**
 
+**Arme el circuito que se muestra en la figura 6.1.**
+
+![image](https://user-images.githubusercontent.com/93835533/149434749-9051c518-b890-4c8e-9836-0be02c6d6a69.png)
+
+
 **Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 6.1.
 Anote los resultados medidos.**
 
@@ -68,6 +73,8 @@ resultados en la tabla 6.1.**
 
 
 **1.7. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
+
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
