@@ -44,6 +44,9 @@ La cantidad de potencia que una fuente de voltaje puede suministrar está limita
 
 ![Diagrama en blanco (6)](https://user-images.githubusercontent.com/93800511/149444803-a5812f7d-45c2-43b3-bf68-9fd0ea867274.png)
 
+
+![Diagrama en blanco (7)](https://user-images.githubusercontent.com/93800511/149445542-f15918b0-30c9-4408-a458-e6efafbd2f4c.png)
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
