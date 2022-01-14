@@ -79,7 +79,8 @@ resultados en la tabla 6.1.**
 
 Tabla de resultados 
 
-![45](https://user-images.githubusercontent.com/93800511/149440300-0f68ea3b-f7bf-4a89-a60e-bfa485502a78.png)
+![45](https://user-images.githubusercontent.com/93800511/149440675-9d52a5ce-a117-4499-a31c-9e6df63adf05.png)
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
