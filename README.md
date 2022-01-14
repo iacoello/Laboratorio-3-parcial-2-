@@ -69,17 +69,13 @@ resultados en la tabla 6.1.**
 ![2 2](https://user-images.githubusercontent.com/93835587/149417345-d08ee269-0d5c-4b91-92b7-2314689d101f.jpg)
 
 
+**Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.**
 
-
+![45](https://user-images.githubusercontent.com/93800511/149440675-9d52a5ce-a117-4499-a31c-9e6df63adf05.png)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 **1.7. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
-
-
-Tabla de resultados 
-
-![45](https://user-images.githubusercontent.com/93800511/149440675-9d52a5ce-a117-4499-a31c-9e6df63adf05.png)
 
 
 
