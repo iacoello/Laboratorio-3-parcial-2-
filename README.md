@@ -78,7 +78,7 @@ resultados en la tabla 6.1.**
 
 **1.7. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
 
-
+![image](https://user-images.githubusercontent.com/93835533/149445068-52461f0f-d685-44e0-bf51-1ab1a2ddebee.png)
 
 ![image](https://user-images.githubusercontent.com/93835533/149443383-0fda32f4-4c04-45e0-8ccf-13feb0dfa2c5.png)
 
