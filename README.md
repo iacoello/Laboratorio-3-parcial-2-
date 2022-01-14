@@ -49,19 +49,19 @@ La cantidad de potencia que una fuente de voltaje puede suministrar está limita
 
 **1.6. EXPLICACIÓN DE PROCEDIMIENTO**
 
-**1.6.1. Arme el circuito que se muestra en la figura 6.1.**
+**Arme el circuito que se muestra en la figura 6.1.**
 
 ![image](https://user-images.githubusercontent.com/93835533/149434749-9051c518-b890-4c8e-9836-0be02c6d6a69.png)
 
 
-**1.6.2. Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 6.1.
+**Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 6.1.
 Anote los resultados medidos.**
 
 ![1 1](https://user-images.githubusercontent.com/93835587/149417327-b8e0af33-0fd6-4217-9fbe-30c3d104c10d.jpg)
 
 ![1](https://user-images.githubusercontent.com/93835587/149417293-c0ba7dcd-a41c-434b-aedb-004dd8eb895e.jpg)
 
-**1.6.3. Calcule las potencia consumida por RL, para cada valor dado y anote los
+**Calcule las potencia consumida por RL, para cada valor dado y anote los
 resultados en la tabla 6.1.**
 
 ![2](https://user-images.githubusercontent.com/93835587/149417372-e71ad30c-1f14-4092-94e7-2210c8fe0e4f.jpg)
@@ -72,18 +72,6 @@ resultados en la tabla 6.1.**
 **Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.**
 
 ![45](https://user-images.githubusercontent.com/93800511/149440675-9d52a5ce-a117-4499-a31c-9e6df63adf05.png)
-
-
-**1.6.4. ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.**
-
-
-
-**1.6.5. ¿Cuál fue la potencia máxima en RL? __________________ Watts**
-
-
-
-
-**1.6.6. ¿Para qué valor de RL se obtiene la MTP? _______________Ω**
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -101,6 +89,14 @@ resultados en la tabla 6.1.**
 ![image](https://user-images.githubusercontent.com/93835533/149444017-e8510c0e-a505-4015-afd7-30b18d8e347e.png)
 
 
+¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su
+respuesta.
+
+Este teorema se cumple debido a que al realizar las mediciones de una resistencia da 1200 ohm esta se utilizaria para obtener la maxima potencia ya que para ser esta una resistencia de carga la misma se iguala a la rsistencia de thievening antes calculada por medio de las mediciones.
+
+¿Cuál fue la potencia máxima en RL?0.04685 Watts
+
+¿Para qué valor de RL se obtiene la MTP? 1500Ω
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
