@@ -16,17 +16,40 @@
 * 23/11/2021
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**1.1 OBJETIVO GENERAL**
+**1.1. OBJETIVO GENERAL**
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**1.2. REQUISITOS PREVIOS**
+
+
+Para el circuito de la figura 6.1, obtenga la potencia para cada valor de carga mostrado en la tabla 6.1 y anote los resultados en la misma.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**1.3. INFORMACIÓN GENERAL**
+
+La cantidad de potencia que una fuente de voltaje puede suministrar está limitada por su resistencia interna RS. El Teorema de la Máxima Transferencia de Potencia establece que: Una fuente de voltaje entrega la máxima transferencia de potencia a una resistencia de carga RL, cuando el valor de esta resistencia es igual a la resistencia interna de la fuente, RS.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**1.4. MATERIAL Y EQUIPO REQUERIDO**
+
+![image](https://user-images.githubusercontent.com/93835533/149434193-4fd10576-f000-439a-abf7-2274578e6b35.png)
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**1.5. MARCO TEÓRICO**
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-**1.3 MARCO TEÓRICO**
+
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-**1.4 EXPLICACIÓN DE PROCEDIMIENTO**
+**1.6. EXPLICACIÓN DE PROCEDIMIENTO**
 
 **Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 6.1.
 Anote los resultados medidos.**
@@ -48,22 +71,22 @@ resultados en la tabla 6.1.**
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-**1.5 RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
+**1.7. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-**1.6 VIDEOS**
+**1.8. VIDEOS**
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-**1.7 .CONCLUCIONES**
+**1.9. CONCLUCIONES**
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-**1.8.BIBLIOGRAFÍA**
+**1.10. BIBLIOGRAFÍA**
 
 Floyd, Thomas.L. (s. f.). Floyd Octava Edición principios de circuitos electricos (8va edición, Vol. 1). Prentice Hall. https://latecnicalf.com.ar/descargas/material/electronicaanalogica/Dispositivos%20Electronicos%208va.edicion-%20Floyd.pdf
 
