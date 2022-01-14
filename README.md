@@ -97,9 +97,10 @@ respuesta.
 
 Este teorema se cumple debido a que al realizar las mediciones de una resistencia da 1200 ohm esta se utilizaria para obtener la maxima potencia ya que para ser esta una resistencia de carga la misma se iguala a la rsistencia de thievening antes calculada por medio de las mediciones.
 
-¿Cuál fue la potencia máxima en RL?0.04685 Watts
+¿Cuál fue la potencia máxima en RL? 0.04648 Watts
 
-¿Para qué valor de RL se obtiene la MTP? 1500Ω
+¿Para qué valor de RL se obtiene la MTP? 1000Ω
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
