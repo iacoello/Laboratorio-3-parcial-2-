@@ -87,7 +87,7 @@ resultados en la tabla 6.1.**
 **1.9. CONCLUCIONES**
 
 * La resistencia de thevenin marca el límite para la Máxima Transferencia de potencia efectva presente en cualquier resistor. 
-* Ningún otro punto de resistencia (sea inferior o superior a la de Thevenin) tendrá mayor tranferencia de potencia que en el alor de la resistencia de Thevenin.
+* Ningún otro punto de resistencia (sea inferior o superior a la de Thevenin) tendrá mayor tranferencia de potencia que en el valor de la resistencia de Thevenin.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
