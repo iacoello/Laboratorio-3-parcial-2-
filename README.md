@@ -32,10 +32,6 @@ Para el circuito de la figura 6.1, obtenga la potencia para cada valor de carga 
 
 La cantidad de potencia que una fuente de voltaje puede suministrar está limitada por su resistencia interna RS. El Teorema de la Máxima Transferencia de Potencia establece que: Una fuente de voltaje entrega la máxima transferencia de potencia a una resistencia de carga RL, cuando el valor de esta resistencia es igual a la resistencia interna de la fuente, RS.
 
-![78](https://user-images.githubusercontent.com/93800511/149438427-2c1bec92-3356-48b0-a896-a35205121612.png)
-
-Circuito propuesto 
-
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **1.4. MATERIAL Y EQUIPO REQUERIDO**
