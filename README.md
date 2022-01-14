@@ -82,6 +82,14 @@ Tabla de resultados
 ![45](https://user-images.githubusercontent.com/93800511/149440675-9d52a5ce-a117-4499-a31c-9e6df63adf05.png)
 
 
+
+![image](https://user-images.githubusercontent.com/93835533/149443383-0fda32f4-4c04-45e0-8ccf-13feb0dfa2c5.png)
+
+![image](https://user-images.githubusercontent.com/93835533/149443398-61a672f9-2952-42e3-b3e9-1602be66d64c.png)
+
+
+
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
